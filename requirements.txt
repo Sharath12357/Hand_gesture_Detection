@@ -1,0 +1,13 @@
+numpy
+pandas
+opencv-python
+mediapipe
+tensorflow
+keras
+nltk
+python-Levenshtein
+Flask
+gunicorn
+matplotlib
+scikit-learn
+pyttsx3
